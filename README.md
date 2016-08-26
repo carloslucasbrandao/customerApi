@@ -14,9 +14,9 @@ Teste tecnico Minutrade Api de clientes, desenvolvido com as seguites tecnologia
 
 - Baixe as depencias do bower: "bower install" 
 
-- Execute a solucion da Api para subir o serviço.
+- Execute a solution da Api para subir o serviço.
 
-- No propomt de comando, na pasta no diretorio frontend execute o comando node server.js 
+- No prompot de comando, na pasta no diretorio frontend execute o comando node server.js 
 
 - Rode a aplicação pela URL http://localhost:3000; 
 
