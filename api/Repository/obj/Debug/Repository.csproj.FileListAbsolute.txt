@@ -1,0 +1,109 @@
+C:\Users\e036855\Desktop\api\CustomersApi\Repository\bin\Debug\Repository.dll.config
+C:\Users\e036855\Desktop\api\CustomersApi\Repository\bin\Debug\Repository.dll
+C:\Users\e036855\Desktop\api\CustomersApi\Repository\bin\Debug\Repository.pdb
+C:\Users\e036855\Desktop\api\CustomersApi\Repository\bin\Debug\Entities.dll
+C:\Users\e036855\Desktop\api\CustomersApi\Repository\bin\Debug\EntityFramework.dll
+C:\Users\e036855\Desktop\api\CustomersApi\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e036855\Desktop\api\CustomersApi\Repository\bin\Debug\Entities.pdb
+C:\Users\e036855\Desktop\api\CustomersApi\Repository\bin\Debug\EntityFramework.xml
+C:\Users\e036855\Desktop\api\CustomersApi\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e036855\Desktop\api\CustomersApi\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\e036855\Desktop\api\CustomersApi\Repository\obj\Debug\Repository.dll
+C:\Users\e036855\Desktop\api\CustomersApi\Repository\obj\Debug\Repository.pdb
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\bin\Debug\Repository.dll.config
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\bin\Debug\Repository.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\bin\Debug\Repository.pdb
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\bin\Debug\Entities.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\bin\Debug\Entities.pdb
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.pdb
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\bin\Debug\Ninject.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\bin\Debug\Ninject.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.Migrations.InitalCreate.resources
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Repository.dll.config
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Repository.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Repository.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Entities.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Ninject.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Ninject.Web.Common.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Entities.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Ninject.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Ninject.Web.Common.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.Migrations.InitalCreate.resources
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.Migrations.InclusaoCampoEmail.resources
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Repository.dll.config
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Repository.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Repository.pdb
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Ninject.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Ninject.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.pdb
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.Migrations.InitalCreate.resources
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Domain.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Domain.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Repository.dll.config
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Repository.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Repository.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Domain.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\Domain.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.Migrations.InitalCreate.resources
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\bin\Debug\Repository.dll.config
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\bin\Debug\Repository.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\bin\Debug\Repository.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\bin\Debug\Domain.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\bin\Debug\Domain.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\obj\Debug\Repository.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\obj\Debug\Repository.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\obj\Debug\Repository.Migrations.InitialCreate.resources
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\bin\Debug\Repository.dll.config
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\bin\Debug\Repository.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\bin\Debug\Repository.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\bin\Debug\Domain.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\bin\Debug\Domain.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\obj\Debug\Repository.Migrations.InitialCreate.resources
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\obj\Debug\Repository.csproj.GenerateResource.Cache
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\obj\Debug\Repository.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Repository\obj\Debug\Repository.pdb

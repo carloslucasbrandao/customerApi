@@ -1,0 +1,277 @@
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\CustomersApi.dll.config
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\CustomersApi.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\CustomersApi.pdb
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Antlr3.Runtime.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Entities.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Newtonsoft.Json.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Repository.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Helpers.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Mvc.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Optimization.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Razor.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\WebGrease.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\EntityFramework.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Entities.pdb
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Repository.pdb
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Newtonsoft.Json.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Helpers.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Mvc.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Optimization.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Razor.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\EntityFramework.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\obj\Debug\CustomersApi.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\obj\Debug\CustomersApi.pdb
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Ninject.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Ninject.Web.Common.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\WebActivatorEx.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Ninject.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Ninject.Web.Common.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Ninject.Web.WebApi.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi\bin\Ninject.Web.WebApi.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\CustomersApi.dll.config
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\CustomersApi.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\CustomersApi.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Antlr3.Runtime.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Entities.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Newtonsoft.Json.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Ninject.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Ninject.Web.Common.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Ninject.Web.WebApi.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Repository.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Net.Http.Formatting.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Helpers.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.WebHost.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Mvc.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Optimization.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Razor.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\WebActivatorEx.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\WebGrease.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\EntityFramework.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Entities.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Repository.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Ninject.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Ninject.Web.Common.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Ninject.Web.WebApi.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Newtonsoft.Json.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Net.Http.Formatting.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Helpers.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.WebHost.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Mvc.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Optimization.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Razor.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Antlr3.Runtime.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\EntityFramework.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\obj\Debug\CustomersApi.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\obj\Debug\CustomersApi.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Cors.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.Cors.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.Cors.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\CustomersApi.dll.config
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\CustomersApi.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\CustomersApi.pdb
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Antlr3.Runtime.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Newtonsoft.Json.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Repository.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Cors.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Helpers.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.Cors.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Optimization.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\WebGrease.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\EntityFramework.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Repository.pdb
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.Cors.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Newtonsoft.Json.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Helpers.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Optimization.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\EntityFramework.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\obj\Debug\CustomersApi.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\obj\Debug\CustomersApi.pdb
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Domain.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Domain.pdb
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\CustomersApi.dll.config
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\CustomersApi.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\CustomersApi.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Antlr3.Runtime.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Domain.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Newtonsoft.Json.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Repository.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Net.Http.Formatting.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Cors.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Helpers.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.Cors.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.WebHost.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Optimization.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\WebGrease.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\EntityFramework.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Domain.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Repository.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.Cors.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Newtonsoft.Json.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Net.Http.Formatting.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Helpers.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Http.WebHost.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.Optimization.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\Antlr3.Runtime.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\bin\EntityFramework.xml
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\obj\Debug\CustomersApi.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\CustomersApi\obj\Debug\CustomersApi.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\CustomersApi.dll.config
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\CustomersApi.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\CustomersApi.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Antlr3.Runtime.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Domain.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Newtonsoft.Json.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Repository.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Cors.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Helpers.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Http.Cors.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Http.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Optimization.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.WebPages.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\WebGrease.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Domain.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Http.Cors.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Newtonsoft.Json.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Helpers.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Http.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Optimization.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.WebPages.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\obj\Debug\CustomersApi.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\obj\Debug\CustomersApi.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\EntityFramework.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\Repository.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\CustomersApi\bin\EntityFramework.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\CustomersApi.dll.config
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\CustomersApi.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\CustomersApi.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Antlr3.Runtime.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Domain.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Newtonsoft.Json.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Repository.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Cors.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Helpers.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Http.Cors.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Http.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Optimization.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.WebPages.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\WebGrease.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\EntityFramework.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Domain.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Repository.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Http.Cors.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Newtonsoft.Json.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Helpers.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Http.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.Optimization.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.WebPages.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\bin\EntityFramework.xml
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\obj\Debug\CustomersApi.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\CustomersApi\obj\Debug\CustomersApi.pdb

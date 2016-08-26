@@ -1,0 +1,88 @@
+<div class="container">
+    <div class="col-sm-8 col-sm-offset-2">
+        <form  name="clientForm" ng-submit="vm.save(vm.client, clientForm.$valid)" novalidate>
+            <div class="form-group" ng-class="{ 'has-error' : clientForm.name.$invalid && vm.submitted}">
+                <label>Name:</label>
+                <input class="form-control" type="text" name="name"
+                    ng-model="vm.client.name"
+                    ng-required="true" />
+                <p class="help-block" ng-show="clientForm.name.$invalid && vm.submitted"> Name is Required!</p>
+            </div>
+            <div class="form-group" ng-class="{ 'has-error' : clientForm.cpf.$invalid && vm.submitted }">
+                <label>CPF:</label>
+                <input class="form-control" type="text" name="cpf"
+                    ui-Br-Cpf-Mask
+                    ng-model="vm.client.cpf"
+                    ng-required="true"/>
+                <p class="help-block" ng-show="clientForm.cpf.$error.required && vm.submitted "> CPF is Required!</p>
+                <p class="help-block" ng-show="clientForm.cpf.$error.cpf && vm.submitted"> CPF invalid!</p>
+            </div>
+
+            <div class="form-group" ng-class="{ 'has-error' : clientForm.email.$invalid && vm.submitted }">
+                <label>E-mail:</label>
+                <input class="form-control" type="email" name="email"
+                    ng-model="vm.client.email"
+                    ng-required="true"/>
+                <p class="help-block" ng-show="clientForm.email.$error.required && vm.submitted "> E-mail is Required!</p>
+                <p class="help-block" ng-show="clientForm.email.$error.email && vm.submitted "> E-mail invalid!</p>
+            </div>
+
+            <div class="form-group" ng-class="{ 'has-error' : clientForm.address.$invalid && vm.submitted }">
+                <label>Address:</label>
+                <input class="form-control" type="text" name="address"
+                    ng-model="vm.client.address"
+                    ng-required="true"/>
+                <p class="help-block" ng-show="clientForm.address.$error.required && vm.submitted"> Address is Required!</p>
+            </div>
+
+            <div class="form-group" ng-class="{ 'has-error' : clientForm.maritalStatus.$invalid && vm.submitted }">
+              <label>Marital Status:</label>
+              <select class="form-control" name="maritalStatus"
+                  ng-options="status.name as status.name for status in vm.maritalStatusList"
+                  ng-model="vm.client.maritalStatus">
+                  <option value="">Select...</option>
+              </select>
+              <p class="help-block" ng-show="clientForm.maritalStatus.$error.required && vm.submitted"> Marital Status is Required!</p>
+            </div>
+
+            <div class="form-group">
+                <label>Enter Phone Number to Add:</label>
+                <input class="form-control" type="text" name="phone" ng-model="vm.phoneNumber" ui-br-phone-number/>
+
+                <span class="btn btn-success btn-sm"
+                  ng-click="vm.addPhone(vm.phoneNumber, vm.client)"
+                  ng-if="vm.phoneNumber.length > 0">
+                    <i class="glyphicon glyphicon-plus"></i> Add
+                </span>
+
+            </div>
+
+            <div class="form-group">
+                <table class="table" ng-show="vm.client.phones.length > 0">
+                    <tr>
+                        <th>Numbers</th>
+                        <th></th>
+                    </tr>
+                    <tr ng-repeat="phone in vm.client.phones">
+                        <td>
+                          <input class="form-control" type="text" name="phone.number"
+                              ng-model="phone.number"
+                              ng-required="true"
+                              ui-br-phone-number/>
+                        </td>
+                        <td><span class="btn btn-danger btn-sm" ng-click="vm.deletePhone(phone.number, vm.client)">Remove</span></td>
+                    </tr>
+                </table>
+            </div>
+            <hr>
+            <div class="form-group">
+                <input class="btn btn-primary " type="submit" value="Save"/>
+                <button class="btn btn-primary btn-danger" ng-click="vm.deleteCustomer(client.id);">Delete</button>
+            </div>
+
+            <div class="form-group">
+
+            </div>
+        </form>
+    </div>
+</div>

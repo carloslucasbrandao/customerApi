@@ -1,0 +1,63 @@
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\obj\Debug\CustomersApi.Tests.csprojResolveAssemblyReference.cache
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\CustomersApi.Tests.dll.config
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\CustomersApi.Tests.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\CustomersApi.Tests.pdb
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\CustomersApi.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\CustomersApi.pdb
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\obj\Debug\CustomersApi.Tests.dll
+C:\Users\e036855\Desktop\api\CustomersApi\CustomersApi.Tests\obj\Debug\CustomersApi.Tests.pdb
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\CustomersApi.Tests.dll.config
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\CustomersApi.Tests.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\CustomersApi.Tests.pdb
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\CustomersApi.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\CustomersApi.pdb
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\obj\Debug\CustomersApi.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\obj\Debug\CustomersApi.Tests.dll
+C:\Users\Lucas Brandao\Documents\GitHub\Angular\CustomersApi\CustomersApi\CustomersApi.Tests\obj\Debug\CustomersApi.Tests.pdb

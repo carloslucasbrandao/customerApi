@@ -1,0 +1,18 @@
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Domain\bin\Debug\Domain.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Domain\bin\Debug\Domain.pdb
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Domain\obj\Debug\Domain.dll
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Domain\obj\Debug\Domain.pdb
+C:\Users\Lucas Brandao\Desktop\Teste Tecnico Minutrade\Cadastro de Clientes\CustomersApi\CustomersApi\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Domain\bin\Debug\Domain.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Domain\bin\Debug\Domain.pdb
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Domain\obj\Debug\Domain.dll
+C:\Users\e036855\Desktop\Cadastro de Clientes 25-08\Cadastro de Clientes\CustomersApi\CustomersApi\Domain\obj\Debug\Domain.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Domain\bin\Debug\Domain.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Domain\bin\Debug\Domain.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Domain\obj\Debug\Domain.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes V2 25-08\Cadastro de Clientes 25-08\Cadastro de Clientes\api\Domain\obj\Debug\Domain.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Domain\bin\Debug\Domain.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Domain\bin\Debug\Domain.pdb
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Domain\obj\Debug\Domain.dll
+C:\Users\Lucas Brandao\Desktop\Cadastro de Clientes\api\Domain\obj\Debug\Domain.pdb

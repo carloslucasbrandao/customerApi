@@ -1,0 +1,25 @@
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>CPF</th>
+        <th>E-Mail</th>
+        <th>Marital Status</th>
+        <th></th>
+        <th></th>
+    </tr>
+    <tr ng-repeat="client in vm.clients">
+        <td>{{client.name}}</td>
+        <td>{{client.cpf}}</td>
+        <td>{{client.email}}</td>
+        <td>{{client.maritalStatus}}</td>
+        <td>
+          <button class="btn btn-primary btn-primary" ng-click="vm.redirect(client.cpf)">Edit</button>
+        </td>
+        <td>
+          
+        </td>
+    </tr>
+    <button class="btn btn-primary btn-primary" ng-click="vm.redirectNew()">New Customer</button>
+    <hr>
+</table>
