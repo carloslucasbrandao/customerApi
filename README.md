@@ -4,11 +4,13 @@ Teste tecnico Minutrade Api de clientes, desenvolvido com as seguites tecnologia
 
 # Para utilização desta aplicação siga os passos abaixo:
 
-- a Api foi desenvolvida em WebApi + C#, será necessario o visual studio 2013 ou superior para abrir e rodar a solution.
+- Api foi desenvolvida em WebApi + C#, será necessario o visual studio 2013 ou superior para abrir e rodar a solution.
+
+- Será necessário que a máquina possua uma instancia do sqlserver express 2012 ou superior instalado.
 
 - Rode o seguinte comando para criação do banco de dados via Package Manager Console do visual studio : "Update-Database -Verbose"
 
-- No diretorio frontend instale as dependencias npm : "npm install" 
+- No diretório frontend instale as dependências npm : "npm install" 
 
 - Realize a instalação do bower: "npm install -g bower"
 
@@ -16,11 +18,11 @@ Teste tecnico Minutrade Api de clientes, desenvolvido com as seguites tecnologia
 
 - Execute a solution da Api para subir o serviço.
 
-- No prompot de comando, na pasta no diretorio frontend execute o comando node server.js 
+- No prompot de comando, na pasta no diretório frontend execute o comando node server.js 
 
 - Rode a aplicação pela URL http://localhost:3000; 
 
-- No prompot de comando, na pasta no diretorio frontend execute o comando "gulp" para minificar os arquivos da aplicação. 
+- No prompot de comando, na pasta no diretório frontend execute o comando "gulp" para minificar os arquivos da aplicação.
 
 
 
