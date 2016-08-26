@@ -20,6 +20,8 @@ Teste tecnico Minutrade Api de clientes, desenvolvido com as seguites tecnologia
 
 - Rode a aplicação pela URL http://localhost:3000; 
 
+- No prompot de comando, na pasta no diretorio frontend execute o comando "gulp" para minificar os arquivos da aplicação. 
+
 
 
 
