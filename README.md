@@ -1,6 +1,6 @@
 # customerApi
 
-Teste tecnico Minutrade Api de clientes, desenvolvido com as seguites tecnologias AngularJS + WebAPI.
+Api de clientes, desenvolvido com as seguites tecnologias AngularJS + WebAPI.
 
 # Para utilização desta aplicação siga os passos abaixo:
 
